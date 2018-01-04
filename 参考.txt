@@ -1,0 +1,42 @@
+[1] IROYA、“色でアイテムを探せるセレクトショップ通販”. IROZA.2017. https://iroza.jp/、 (参照2018-01-04)
+
+[2]蔡 東生; 丁 策立
+情報処理学会研究報告. グラフィクスとCAD研究会報告/2013-CG-150(4)/pp.1-8, 2013-02
+
+[3]長田典子，岩井大輔，津田学，和氣早苗，井口征士: 音と色のノンバーバルマッピング
+―色聴保持者のマッピングルール抽出とその応用―, 電子情報通信学会論文誌A, J86-A (11),1219-1230(2003)
+
+[4] ZOZOTOWN、”ファッション通販ZOZOTOWN”、START TODAY CO.,LTD.　2017.　http://zozo.jp/ (参照2018-01-04)
+
+[5]  Anand Rajaraman, Jure Leskovec and Jeffrey D. Ullman. ”Chapter 9 Recommendation Systems”. Mining of Massive Datasets. Stanford InfoLab, 2010, 307-327
+
+[6]  Anand Rajaraman, Jure Leskovec and Jeffrey D. Ullman. ”9.1 Dimensionality Reduction”. Mining of Massive Datasets. Stanford InfoLab, 2010, 328-336
+
+[7] Edwin Chen	．“Introduction to Restricted Boltzmann Machines”．Edwin Chen's Blog．2011．http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/、（参照2018-01-04）．
+[8]　株式会社キビテク	．“クロスモーダル”． IoT関連技術．2017．http://iot-jp.com/iotsummary/iottech/クロスモーダル/.html、（参照2018-01-04）．
+
+[9] 渡邉翔: クロスモーダル解析を用いたレコメンダーシステム,筑波大学修士論文 (2016)
+[10] 滝藤,早苗著：E.T.A.ホフマンの調性格論--C.F.D.シューバルトの見解との比較 (2004)
+[11] 丁策立,色聴共感覚者の一貫性実験によるクロスモーダルマッピング,筑波大学修士論文 (2013)
+[12] Wikipedia	．“Jaccard index”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Jaccard_index、（参照2018-01-04）．
+[13] Wikipedia	．“Cosine similarity”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Cosine_similarity、（参照2018-01-04）．
+[14] Wikipedia	．“tf–idf”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Tf–idf、（参照2018-01-04）．
+[15] CSLI Stanford．”The World Color Survey” http://www1.icsi.berkeley.edu/wcs/
+[16]　Wikipedia	．“Munsell color system”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Munsell_color_system、（参照2018-01-04）．
+[17]　Wikipedia	．“Lab color space”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Lab_color_space、（参照2018-01-04）．
+[18]　Wikipedia	．“Color difference”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Color_difference#CIEDE2000、（参照2018-01-04）．
+[19]　Wikipedia	．“Earth mover's distance”．From Wikipedia, the free encyclopedia．https://en.wikipedia.org/wiki/Earth_mover%27s_distance、（参照2018-01-04）．
+[20] 井上泰助:共感覚を用いた音楽と映像のノンバーバルマッピング,筑波大学修士論文 (2008).
+[21] Muriçoca Labs	．“Crab - Recommender systems in Python”．A Recommender Framework in Python．2011．http://muricoca.github.io/crab/、（参照2018-01-04）．
+[22] Google ．“Googletrans: Free and Unlimited Google translate API for Python”．modulesGoogletrans 2.2.0 documentation．2017．http://py-googletrans.readthedocs.io/en/latest/、（参照2018-01-04）．
+[23] OpenCV team ．“Open Source Computer Vision Library”．OpenCV．2017．https://opencv.org/、（参照2018-01-04）．
+[24] NumPy developers ．“the fundamental package for scientific computing with Python”．NumPy．2017．http://www.numpy.org/、（参照2018-01-04）．
+[25]  The Matplotlib development team ．“ a Python 2D plotting library”．matplotlib．2017．https://matplotlib.org/、（参照2018-01-04）．
+[26] Wikipedia	．“RGB color model”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/RGB_color_model、（参照2018-01-04）．
+[27] Manoj Pandey	．“RGB to CIELab color space conversion”．rgb2lab.py．2017．https://gist.github.com/manojpandey/f5ece715132c572c80421febebaf66ae、（参照2018-01-04）．
+[28] F Garcin, B Faltings, O Donatsch, A Alazzawi, C Bruttin, Offline and online evaluation of news recommender systems at swissinfo. ch, A Huber
+Proceedings of the 8th ACM Conference on Recommender systems, 169-176
+[29] Wikipedia	．“Click-through rate”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Click-through_rate、（参照2018-01-04）．
+[30] Wikipedia	．“Pay-per-click”．From Wikipedia, the free encyclopedia．2017．https://en.wikipedia.org/wiki/Pay-per-click、（参照2018-01-04）．
+[31]
+[32]
