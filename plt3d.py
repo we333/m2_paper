@@ -17,7 +17,7 @@ def draw_bar(labels, title, quants, colors):
 	ax.set_xticks(ind)  
 	ax.set_xticklabels(labels)  
 	# labels  
-	ax.set_xlabel('C: COLOR-base        CU: COLOR_USER-base')  
+	ax.set_xlabel('Recommend Engine')  
 	ax.set_ylabel('Result')  
 	# title  
 	ax.set_title(title, bbox={'facecolor':'0.8', 'pad':5})  
