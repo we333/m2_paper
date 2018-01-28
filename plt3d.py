@@ -26,6 +26,44 @@ def draw_bar(labels, title, quants, colors):
 	plt.savefig(title + ".jpg")  
 	plt.close()
 
+def one2one():
+	labels_1   = ['COLOR-base', 'RANDOM']
+	labels_2   = ['COLOR-base', 'USER-base']
+	labels_3   = ['COLOR-base', 'CONTENT-base']
+
+	quants_1 = [1.33, 0.71] 
+	quants_2 = [1.33, 0.864] 
+	quants_3 = [1.33, 0.992] 
+
+	colors_1 = ["#41B684", "#F88836"]
+	colors_2 = ["#41B684", "#5255DC"]
+	colors_3 = ["#41B684", "#D949E4"]
+
+#	draw_bar(labels_1, 'mean Satisfaction', quants_1, colors_1)
+#	draw_bar(labels_2, 'mean Satisfaction', quants_2, colors_2)
+	draw_bar(labels_3, 'mean Satisfaction', quants_3, colors_3)
+
+def one2one_color_user():
+	labels_1   = ['COLOR_USER', 'RANDOM']
+	labels_2   = ['COLOR_USER', 'USER-base']
+	labels_3   = ['COLOR_USER', 'CONTENT-base']
+	labels_4   = ['COLOR_USER', 'COLOR-base']
+
+	quants_1 = [1.746, 0.71] 
+	quants_2 = [1.746, 0.864] 
+	quants_3 = [1.746, 0.992] 
+	quants_4 = [1.746, 1.33] 
+
+	colors_1 = ["#EE1556", "#F88836"]
+	colors_2 = ["#EE1556", "#5255DC"]
+	colors_3 = ["#EE1556", "#D949E4"]
+	colors_4 = ["#EE1556", "#41B684"]
+
+#	draw_bar(labels_1, 'mean Satisfaction', quants_1, colors_1)
+#	draw_bar(labels_2, 'mean Satisfaction', quants_2, colors_2)
+#	draw_bar(labels_3, 'mean Satisfaction', quants_3, colors_3)
+	draw_bar(labels_4, 'mean Satisfaction', quants_4, colors_4)
+
 def draw_test_1():
 	labels   = ['COLOR-base', 'USER-base', 'CONTENT-base', 'RANDOM']  
 	quants_ctr = [0.398, 0.38, 0.35, 0.299] 
@@ -73,4 +111,4 @@ def draw_test_3():
 	colors = ["#41B684","#41B684","#41B684","#EE1556","#41B684","#EE1556","#41B684","#EE1556","#EE1556","#EE1556"]
 	draw_bar(labels, 'Satisfaction', quants_statis, colors)
 
-draw_test_2()
+one2one_color_user()
